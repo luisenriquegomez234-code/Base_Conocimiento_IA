@@ -1,0 +1,12 @@
+# Memoria (no subir)
+memory/
+
+# Variables sensibles
+.env
+
+# Node (por si lo usas luego)
+node_modules/
+
+# Archivos temporales
+*.log
+*.tmp

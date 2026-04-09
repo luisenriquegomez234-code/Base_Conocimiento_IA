@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":  "directorios-archivos",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\directorios-archivos"
+    },
+    {
+        "nombre":  "documentos-de-negocio",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\documentos-de-negocio"
+    },
+    {
+        "nombre":  "ingenieria-de-prompts",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\ingenieria-de-prompts"
+    },
+    {
+        "nombre":  "integracion-resiliente-apis",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\integracion-resiliente-apis"
+    },
+    {
+        "nombre":  "manejo-estado-frontend",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\manejo-estado-frontend"
+    },
+    {
+        "nombre":  "memoria",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\memoria"
+    },
+    {
+        "nombre":  "seguridad",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\seguridad"
+    },
+    {
+        "nombre":  "tareas-cronogramas",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\tareas-cronogramas"
+    },
+    {
+        "nombre":  "validacion-datos-etl",
+        "ruta":  "C:\\Equipo de Trabajo\\Datos\\Proyectos\\Workspaces\\Base_Conocimiento_IA\\skills\\validacion-datos-etl"
+    }
+]
